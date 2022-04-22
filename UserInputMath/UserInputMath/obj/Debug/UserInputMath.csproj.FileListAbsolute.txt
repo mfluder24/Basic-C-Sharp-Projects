@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Basic_C#_Programs\UserInputMath\UserInputMath\obj\Debug\UserInputMath.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Basic_C#_Programs\UserInputMath\UserInputMath\bin\Debug\UserInputMath.exe.config
+C:\Users\User\Desktop\Basic_C#_Programs\UserInputMath\UserInputMath\bin\Debug\UserInputMath.exe
+C:\Users\User\Desktop\Basic_C#_Programs\UserInputMath\UserInputMath\bin\Debug\UserInputMath.pdb
+C:\Users\User\Desktop\Basic_C#_Programs\UserInputMath\UserInputMath\obj\Debug\UserInputMath.exe
+C:\Users\User\Desktop\Basic_C#_Programs\UserInputMath\UserInputMath\obj\Debug\UserInputMath.pdb
+C:\Users\User\Desktop\Basic_C#_Programs\UserInputMath\UserInputMath\obj\Debug\UserInputMath.csproj.AssemblyReference.cache
