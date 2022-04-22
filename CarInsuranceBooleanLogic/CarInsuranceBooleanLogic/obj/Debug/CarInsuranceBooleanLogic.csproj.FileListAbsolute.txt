@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Basic_C#_Programs\CarInsuranceBooleanLogic\CarInsuranceBooleanLogic\bin\Debug\CarInsuranceBooleanLogic.exe.config
+C:\Users\User\Desktop\Basic_C#_Programs\CarInsuranceBooleanLogic\CarInsuranceBooleanLogic\bin\Debug\CarInsuranceBooleanLogic.exe
+C:\Users\User\Desktop\Basic_C#_Programs\CarInsuranceBooleanLogic\CarInsuranceBooleanLogic\bin\Debug\CarInsuranceBooleanLogic.pdb
+C:\Users\User\Desktop\Basic_C#_Programs\CarInsuranceBooleanLogic\CarInsuranceBooleanLogic\obj\Debug\CarInsuranceBooleanLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Basic_C#_Programs\CarInsuranceBooleanLogic\CarInsuranceBooleanLogic\obj\Debug\CarInsuranceBooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Basic_C#_Programs\CarInsuranceBooleanLogic\CarInsuranceBooleanLogic\obj\Debug\CarInsuranceBooleanLogic.exe
+C:\Users\User\Desktop\Basic_C#_Programs\CarInsuranceBooleanLogic\CarInsuranceBooleanLogic\obj\Debug\CarInsuranceBooleanLogic.pdb
