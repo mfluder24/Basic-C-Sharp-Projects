@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Basic_C#_Programs\WhileLoopSubmission\WhileLoopSubmission\bin\Debug\WhileLoopSubmission.exe.config
+C:\Users\User\Desktop\Basic_C#_Programs\WhileLoopSubmission\WhileLoopSubmission\bin\Debug\WhileLoopSubmission.exe
+C:\Users\User\Desktop\Basic_C#_Programs\WhileLoopSubmission\WhileLoopSubmission\bin\Debug\WhileLoopSubmission.pdb
+C:\Users\User\Desktop\Basic_C#_Programs\WhileLoopSubmission\WhileLoopSubmission\obj\Debug\WhileLoopSubmission.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Basic_C#_Programs\WhileLoopSubmission\WhileLoopSubmission\obj\Debug\WhileLoopSubmission.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Basic_C#_Programs\WhileLoopSubmission\WhileLoopSubmission\obj\Debug\WhileLoopSubmission.exe
+C:\Users\User\Desktop\Basic_C#_Programs\WhileLoopSubmission\WhileLoopSubmission\obj\Debug\WhileLoopSubmission.pdb
