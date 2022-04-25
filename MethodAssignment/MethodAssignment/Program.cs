@@ -21,12 +21,12 @@ namespace MethodAssignment
             {
                 int num2 = Convert.ToInt32(answer); // Converts string 'answer' to an int variable
                 int result = obj.Maths1(num1, num2); // Calls 'Maths1' method and provides two arguments, saves returned result as int
-                Console.WriteLine(num1 + " plus " + num2 + " = " + result); // Displays equation and result to user
+                Console.WriteLine(num1 + " multiplied by " + num2 + " = " + result); // Displays equation and result to user
             }
             else // Else statement that executes if user left optional number blank
             {
                 int result = obj.Maths1(num1); // Calls 'Maths1' method and provides one argument, saves returned result as int
-                Console.WriteLine(num1 + " plus  5 " + " = " + result); // Displays equation (with default second integer) and result to user
+                Console.WriteLine(num1 + " multiplied by 5 " + " = " + result); // Displays equation (with default second integer) and result to user
             }
 
             Console.ReadLine(); // Prevents program from terminating immediately
