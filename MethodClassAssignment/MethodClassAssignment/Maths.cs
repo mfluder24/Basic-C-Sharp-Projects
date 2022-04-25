@@ -11,7 +11,6 @@ namespace MethodClassAssignment
         public static void Maths1(int num1, int num2) // Creates 'Maths1' method and sets two int parameters
         {
             int result = num1 + 24;  // Adds 24 to num1 parameter and saves result as int variable
-            Console.WriteLine(num1 + " plus 24 = " + result); // Displays equation and result to user
             Console.WriteLine("The second number is: " + num2); // Displays second parameter to user
         }
     }
