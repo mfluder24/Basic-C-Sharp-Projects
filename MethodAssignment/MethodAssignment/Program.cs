@@ -10,6 +10,7 @@ namespace MethodAssignment
     {
         static void Main(string[] args)
         {
+            var obj = new Maths(); // Instantiates Maths class
             Console.WriteLine("Let's do some math!"); // Displays message to user and prompts for appropriate input
             Console.WriteLine("Please provide a whole number:");
             int num1 = Convert.ToInt32(Console.ReadLine()); // Saves user input as string and converts it to an int variable
@@ -19,14 +20,16 @@ namespace MethodAssignment
             if (answer != "") // If statement that will execute if user input a number
             {
                 int num2 = Convert.ToInt32(answer); // Converts string 'answer' to an int variable
-                Maths.Maths1(num1, num2); // Calls 'Maths1' method and provides two arguments
+                int result = obj.Maths1(num1, num2); // Calls 'Maths1' method and provides two arguments, saves returned result as int
+                Console.WriteLine(num1 + " plus " + num2 + " = " + result); // Displays equation and result to user
             }
             else // Else statement that executes if user left optional number blank
             {
-                Maths.Maths1(num1); // Calls 'Maths1' method and provides one argument
+                int result = obj.Maths1(num1); // Calls 'Maths1' method and provides one argument, saves returned result as int
+                Console.WriteLine(num1 + " plus  5 " + " = " + result); // Displays equation (with default second integer) and result to user
             }
 
-            Console.ReadLine(); // Prevvents program from terminating immediately
+            Console.ReadLine(); // Prevents program from terminating immediately
         }
     }
 }
