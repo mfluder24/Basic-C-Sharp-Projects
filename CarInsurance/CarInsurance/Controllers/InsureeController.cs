@@ -59,7 +59,7 @@ namespace CarInsurance.Controllers
                 db.SaveChanges();
 
                 int quoteBase = 50;
-                int quote;
+                decimal quote;
 
                 int age = Convert.ToInt32(DateTime.Now.Year - insuree.DateOfBirth.Year);
                 if (age < 18)
@@ -84,9 +84,9 @@ namespace CarInsurance.Controllers
                 {
                     quote = quote + 25;
                 }
-                else if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
                 {
-                    quote = quote + 50;
+                    quote = quote + 25;
                 }
 
                 int tickets = insuree.SpeedingTickets * 10;
@@ -94,13 +94,15 @@ namespace CarInsurance.Controllers
 
                 if (insuree.DUI)
                 {
-                    int dui = Convert.ToInt32(.25 * quote);
+                    decimal twenFive = 0.25m;
+                    decimal dui = Decimal.Multiply(twenFive, quote);
                     quote = dui + quote;
                 }
 
                 if (insuree.CoverageType)
                 {
-                    int full = Convert.ToInt32(.5 * quote);
+                    decimal fifty = 0.50m;
+                    decimal full = Decimal.Multiply(fifty, quote);
                     quote = quote + full;
                 }
 
