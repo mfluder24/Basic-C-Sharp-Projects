@@ -2,10 +2,10 @@
 Basic C# projects for The Tech Academy C# And .NET Course. They utilise C#, the .NET Framework, .NET Core, Entity Framework, MVC, and more. Below are some of the several projects I constructed and submitted.
 
 ## Projects
-- [Car Insurance Program] (https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/CarInsurance)
-- [Polymorphism Assignment] (https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/PolymorphismAssignment)
-- [Console App Assignment] (https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/ConsoleAppAssignment)
-- [While Loop Submission] (https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/WhileLoopSubmission)
+- [Car Insurance Program](https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/CarInsurance)
+- [Polymorphism Assignment](https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/PolymorphismAssignment)
+- [Console App Assignment](https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/ConsoleAppAssignment)
+- [While Loop Submission](https://github.com/mfluder24/Basic-C-Sharp-Projects/tree/main/WhileLoopSubmission)
 
 ### Car Insurance Program
 A simple ASP.NET MVC Web Application that utilises the .NET Framework and Entity Framework. It stores applicants for Car Insurance in a database, and formulates a quote (decimal) based on their various criteria, such as age, car year/make/model, DUIs or speeding tickets, etc. The application supports CRUD operations. 
